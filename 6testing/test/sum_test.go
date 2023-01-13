@@ -7,7 +7,7 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-// jika import "github.com/stretchr/testify/assert", maka jalankan command go get github.com/stretchr/testify/assert
+// jika import "github.com/stretchr/testify/assert" ada garis merahnya, maka jalankan command go get github.com/stretchr/testify/assert
 // untuk menjalankan test, bisa langsung klik icon run disamping kiri line function Test, contoh line 13
 
 func TestSumNative(t *testing.T) {
